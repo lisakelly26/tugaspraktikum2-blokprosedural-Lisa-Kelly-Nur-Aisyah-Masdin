@@ -28,10 +28,10 @@ Praktikum ini bertujuan untuk memahami struktur blok prosedural, menyusun progra
 
 Program yang dibuat memiliki beberapa bagian:
 
-* **Bagian A**: Menampilkan identitas mahasiswa
-* **Bagian B**: Validasi data akademik
-* **Bagian C**: Menentukan kelayakan KRS
-* **Bagian D**: Perbandingan dua mahasiswa
+* **Bagian A**: Menampilkan Identitas Mahasiswa
+* **Bagian B**: Validasi Data Akademik
+* **Bagian C**: Menentukan Kelayakan KRS
+* **Bagian D**: Perbandingan Dua Mahasiswa
 
 ---
 
@@ -71,11 +71,11 @@ tugaspraktikum2-blokprosedural-namakelompok/
 
 Program berhasil menampilkan:
 
-* Identitas mahasiswa
-* Status validasi data
-* Kategori beban studi
-* Kategori performa akademik
-* Kesimpulan kelayakan KRS
+* Identitas Mahasiswa
+* Status Validasi Data
+* Kategori Beban Studi
+* Kategori Performa Akademik
+* Kesimpulan Kelayakan KRS
 
 ---
 
